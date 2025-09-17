@@ -1,6 +1,6 @@
                                                                                                                                                                   
 # AgriSense: AI-Driven Smart Agriculture Platform 
-
+ 
 ## Overview
 AgriSense is a smart agriculture platform that utilizes AI and IoT to optimize farming operations. By analyzing data from soil moisture, temperature, humidity, and satellite imagery, the platform provides personalized recommendations to improve crop health, reduce resource wastage, and increase yields.
 
