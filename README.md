@@ -1,4 +1,4 @@
-                                                                                                        
+                                                                                                         
 # AgriSense: AI-Driven Smart Agriculture Platform 
  
 ## Overview
